@@ -1,10 +1,10 @@
 # ProcessWire - Русскоязычное сообщество
 
-Наш чат в телеграме: https://t.me/processwire
+Наш чат в телеграме: [https://t.me/processwire](https://t.me/processwire)
 
 ### Это простая и удобная ЦМС с открытым кодом, написанная на PHP
 
-https://github.com/processwire/processwire
+[https://github.com/processwire/processwire](https://github.com/processwire/processwire)
 
 Прикол Процессвайр в исключительно удобном АПИ, написанном в духе ДжейКвери.
 
@@ -52,8 +52,8 @@ $phones = $pages->find("template=phones, year>2014, screen>=4, sort=-vendor");
 
 Здесь есть хуки, кэширование, удобная поддержка языков, темы для админки, система плагинов и добрейшее комьюнити. Систему активно разрабатывают в соответствии с роадмапами.
 
-http://processwire.com/about/roadmap/
+[http://processwire.com/about/roadmap/](http://processwire.com/about/roadmap/)
 
 Если вы устали от МОДыкс и ищите что-то новое, то вам обязательно нужно попробовать Процессвайр.
 
-https://github.com/processwire/processwire
+[https://github.com/processwire/processwire](https://github.com/processwire/processwire)
